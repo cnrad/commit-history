@@ -1,6 +1,6 @@
 # readme.md
 
-This repo is only to set commits that happened before my join date on this account, for whatever reasons
+This repo is only to set commits that happened before my join date on this account + deleted commits/repos, for whatever reasons
 
 ```bash
 set GIT_COMMITTER_DATE='YYYY-MM-DD HH:MM:SS'
@@ -14,3 +14,9 @@ Revert to normal:
 set GIT_COMMITTER_DATE=
 set GIT_AUTHOR_DATE=
 ```
+
+Feb 13, 2017 - GitHub join date on previous account
+
+Jul 11, 2021 - Contributions to Moments (removed repo/org)
+
+Jul 15, 2021 - Contributions to Moments (removed repo/org)
