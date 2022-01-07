@@ -28,3 +28,5 @@ Nov 11, 2021 - School + work, busy
 Nov 25, 2021 - Thanksgiving with family, no commits
 
 Jan 05, 2022 - Worked on P*******e, forgot to commit anything until I finished like half of it
+
+Jan 07, 2022 - Worked on P*******e more, just didn't commit (I want credit for getting things done, that's the point of my streak)
