@@ -1,6 +1,6 @@
 # readme.md
 
-This repo is only to set commits that happened before my join date on this account + deleted commits/repos, for whatever reasons
+This repo is only to set commits that have since been removed, or add ones in place of holidays etc (I'm holding myself accountable)
 
 ```bash
 set GIT_COMMITTER_DATE='YYYY-MM-DD HH:MM:SS'
@@ -32,3 +32,5 @@ Jan 05, 2022 - Worked on P*******e, forgot to commit anything until I finished l
 Jan 07, 2022 - Worked on P*******e more, just didn't commit (I want credit for getting things done, that's the point of my streak)
 
 Feb 11, 2022 - sick and bedridden all day rip
+
+Feb 28, 2022 - I created a repository (milestone) but it doesn't count it on other devices for some reason
