@@ -27,10 +27,12 @@ Nov 11, 2021 - School + work, busy
 
 Nov 25, 2021 - Thanksgiving with family, no commits
 
-Jan 05, 2022 - Worked on P*******e, forgot to commit anything until I finished like half of it
+Jan 05, 2022 - Worked on P**\*\*\***e, forgot to commit anything until I finished like half of it
 
-Jan 07, 2022 - Worked on P*******e more, just didn't commit (I want credit for getting things done, that's the point of my streak)
+Jan 07, 2022 - Worked on P**\*\*\***e more, just didn't commit (I want credit for getting things done, that's the point of my streak)
 
 Feb 11, 2022 - sick and bedridden all day rip
 
 Feb 28, 2022 - I created a repository (milestone) but it doesn't count it on other devices for some reason
+
+March 16, 2022 - Did work, didn't track (maybe a different branch or something) - Strike 1?
