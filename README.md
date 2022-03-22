@@ -36,3 +36,5 @@ Feb 11, 2022 - sick and bedridden all day rip
 Feb 28, 2022 - I created a repository (milestone) but it doesn't count it on other devices for some reason
 
 March 16, 2022 - Did work, didn't track (maybe a different branch or something) - Strike 1?
+
+March 22nd, 2022 - Oops (busy day)
