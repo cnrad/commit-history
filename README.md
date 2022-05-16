@@ -46,3 +46,5 @@ April 07, 2022 - Created a new repo but doesn't show up for others
 April 13, 2022 - No commits, did work
 
 April 22, 2022 - demotivated/burnout
+
+May 16, 2022 - No ideas or anything to work on, strike 2?
